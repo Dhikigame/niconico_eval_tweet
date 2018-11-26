@@ -1,0 +1,7 @@
+Dockerfile
+__pycache__
+.bash_history
+.cache
+.git
+*.pyc
+*.yml
