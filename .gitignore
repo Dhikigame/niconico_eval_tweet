@@ -1,5 +1,6 @@
 Dockerfile
 __pycache__
+.ssh
 .bash_history
 .cache
 .git
