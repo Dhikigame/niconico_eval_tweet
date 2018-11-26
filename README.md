@@ -1,1 +1,3 @@
 # niconico_eval_tweet
+ニコニコ動画にもっと評価すべき動画をツイートするBOT
+
